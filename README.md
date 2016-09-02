@@ -1,3 +1,3 @@
 # ruby-challenges
-Ruby practice challenges
+Ruby practice challenges from Skillcrush 104
   
